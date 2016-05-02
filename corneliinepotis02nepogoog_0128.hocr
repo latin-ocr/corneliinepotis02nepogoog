@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./corneliinepotis02nepogoog_0128.png"; bbox 0 0 877 1167; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 151 98 733 101">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 151 98 733 101">
+     <span class='ocr_line' id='line_1_1' title="bbox 151 98 733 101; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 151 98 733 101; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 219 161 496 237">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 219 161 496 237">
+     <span class='ocr_line' id='line_1_2' title="bbox 219 161 496 193; baseline 0 -14"><span class='ocrx_word' id='word_1_2' title='bbox 219 161 342 179; x_wconf 73' lang='lat' dir='ltr'><strong>ITALIA</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 361 162 402 179; x_wconf 83' lang='grc' dir='ltr'><strong>ΕΤ</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 438 162 439 171; x_wconf 65' lang='lat'>¹</span> <span class='ocrx_word' id='word_1_5' title='bbox 471 165 496 193; x_wconf 26' lang='grc' dir='ltr'><strong>κω</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 225 172 438 237; baseline 0 -19"><span class='ocrx_word' id='word_1_6' title='bbox 225 200 401 218; x_wconf 80' lang='lat' dir='ltr'>HISPANIA</span> <span class='ocrx_word' id='word_1_7' title='bbox 432 172 438 237; x_wconf 39' lang='lat'><strong>1¹?</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 112 87 738 1088">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 112 87 738 1088">
+     <span class='ocr_line' id='line_1_4' title="bbox 112 87 738 1088; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 112 87 738 1088; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
